@@ -326,3 +326,45 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:30:25.111
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.rEpmyrXO => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:30.460
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:30.531
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4d992634[org.springframework.tooling.boot.ls:1.28.0.202109130547(id=562)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:30.531
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:33.897
+!MESSAGE Boot LS startup time from start to initialized: 3360ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:34.034
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wRaPISBTisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:34.038
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:34.040
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:34.041
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:34.042
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:34.043
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wRaPISBT => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:34.049
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:34.052
+!MESSAGE buffering callback sts4.classpath.wRaPISBT demo false 75
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:34.055
+!MESSAGE executing callback sts4.classpath.wRaPISBT 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-02-13 00:54:34.694
+!MESSAGE executing callback sts4.classpath.wRaPISBT SUCCESS [done]
